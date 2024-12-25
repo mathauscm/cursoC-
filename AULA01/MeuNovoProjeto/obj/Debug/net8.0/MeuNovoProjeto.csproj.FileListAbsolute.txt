@@ -1,0 +1,14 @@
+C:\Users\Mathaus Carvalho\Documents\CURSO_MS\aula01\MeuNovoProjeto\bin\Debug\net8.0\MeuNovoProjeto.exe
+C:\Users\Mathaus Carvalho\Documents\CURSO_MS\aula01\MeuNovoProjeto\bin\Debug\net8.0\MeuNovoProjeto.deps.json
+C:\Users\Mathaus Carvalho\Documents\CURSO_MS\aula01\MeuNovoProjeto\bin\Debug\net8.0\MeuNovoProjeto.runtimeconfig.json
+C:\Users\Mathaus Carvalho\Documents\CURSO_MS\aula01\MeuNovoProjeto\bin\Debug\net8.0\MeuNovoProjeto.dll
+C:\Users\Mathaus Carvalho\Documents\CURSO_MS\aula01\MeuNovoProjeto\bin\Debug\net8.0\MeuNovoProjeto.pdb
+C:\Users\Mathaus Carvalho\Documents\CURSO_MS\aula01\MeuNovoProjeto\obj\Debug\net8.0\MeuNovoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathaus Carvalho\Documents\CURSO_MS\aula01\MeuNovoProjeto\obj\Debug\net8.0\MeuNovoProjeto.AssemblyInfoInputs.cache
+C:\Users\Mathaus Carvalho\Documents\CURSO_MS\aula01\MeuNovoProjeto\obj\Debug\net8.0\MeuNovoProjeto.AssemblyInfo.cs
+C:\Users\Mathaus Carvalho\Documents\CURSO_MS\aula01\MeuNovoProjeto\obj\Debug\net8.0\MeuNovoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Mathaus Carvalho\Documents\CURSO_MS\aula01\MeuNovoProjeto\obj\Debug\net8.0\MeuNovoProjeto.dll
+C:\Users\Mathaus Carvalho\Documents\CURSO_MS\aula01\MeuNovoProjeto\obj\Debug\net8.0\refint\MeuNovoProjeto.dll
+C:\Users\Mathaus Carvalho\Documents\CURSO_MS\aula01\MeuNovoProjeto\obj\Debug\net8.0\MeuNovoProjeto.pdb
+C:\Users\Mathaus Carvalho\Documents\CURSO_MS\aula01\MeuNovoProjeto\obj\Debug\net8.0\MeuNovoProjeto.genruntimeconfig.cache
+C:\Users\Mathaus Carvalho\Documents\CURSO_MS\aula01\MeuNovoProjeto\obj\Debug\net8.0\ref\MeuNovoProjeto.dll
