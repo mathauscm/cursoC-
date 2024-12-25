@@ -1,8 +1,14 @@
 {
   "ExpandedNodes": [
     "",
+<<<<<<< HEAD
     "\\AULA05"
   ],
   "SelectedNode": "\\AULA05\\AULA04.cs",
+=======
+    "\\MeuProjeto"
+  ],
+  "SelectedNode": "\\MeuProjeto\\aula05.cs",
+>>>>>>> 9312fe07610cd97120a51053eec8b078a6df6b43
   "PreviewInSolutionExplorer": false
 }
